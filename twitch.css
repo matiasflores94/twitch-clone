@@ -1,0 +1,34 @@
+.banner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cuerpo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.centro-video {
+  flex-grow: 6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-banner {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.video-descripcion {
+  display: flex;
+  align-items: center;
+}
+.video-stats {
+  display: flex;
+}
+
+.header-chat {
+  display: flex;
+}
